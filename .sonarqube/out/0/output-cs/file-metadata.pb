@@ -1,0 +1,9 @@
+a
+XC:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\Pages\Error.cshtml.csutf-8a
+XC:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\Pages\Index.cshtml.csutf-8c
+ZC:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\Pages\Privacy.cshtml.csutf-8V
+MC:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\Program.csutf-8V
+MC:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\Startup.csutf-8•
+‰C:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8…
+zC:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\obj\Debug\netcoreapp3.1\DevOpsSonarqube.AssemblyInfo.csutf-8Š
+C:\Users\ethan.riwaka\source\repos\DevOpsSonarqube\DevOpsSonarqube\obj\Debug\netcoreapp3.1\DevOpsSonarqube.RazorAssemblyInfo.csutf-8
